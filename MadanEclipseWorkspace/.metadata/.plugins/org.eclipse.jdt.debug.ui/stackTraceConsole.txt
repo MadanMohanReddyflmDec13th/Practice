@@ -1,0 +1,6 @@
+org.junit.ComparisonFailure: expected:<Adactin.com - [Search Hotel]> but was:<Adactin.com - [Hotel Reservation System]>
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at steps.stepDefinitions.user_verify_the_title_to_be(stepDefinitions.java:98)
+	at ?.user verify the title to be "Adactin.com - Search Hotel"(file:///C:/Users/HP/Desktop/Madan%20Java/MadanEclipseWorkspace/BDDAutomation/src/test/resources/features/regression/LoginUsingBackground.feature:14)
+

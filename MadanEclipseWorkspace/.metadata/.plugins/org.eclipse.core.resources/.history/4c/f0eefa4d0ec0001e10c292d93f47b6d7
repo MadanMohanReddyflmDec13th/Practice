@@ -1,0 +1,30 @@
+package jan30th;
+
+import java.util.Scanner;
+
+public class OperatorsDemo6 {
+
+	public static void main(String[] args) {
+		
+		// Ternary Operator
+		
+		System.out.println("Enter some value for x: ");
+		
+		Scanner input=new Scanner(System.in);
+		int x=input.nextInt();
+		
+		if(x>=0)
+		{
+			System.out.println("+ve");
+		}
+		else
+		{
+			System.out.println("-ve");
+		}
+			
+	
+		
+
+	}
+
+}

@@ -1,0 +1,33 @@
+package programs;
+
+public class Swap2Nums {
+	
+	int a=10;
+	int b=25;
+	int temp;
+	public static void main(String[] args) {
+		
+	Swap2Nums obj=new Swap2Nums() ;
+	System.out.println(obj.swapp());
+		
+	}
+		//using 3rd variable
+		
+		
+		public int[] swapp() {
+	
+		temp=a;
+		a=b;
+		b=temp;
+		int[] z= {a,b};
+		return z;
+		}	
+		//System.out.println(a);
+		//System.out.println(b);
+		
+		//without 3rd variable
+		
+		
+	
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;WebTable1.java&apos; to &apos;SeleniumSeasons/src/mar15th&apos;&#x0D;&#x0A;- Original project: &apos;SeleniumSeasons&apos;&#x0D;&#x0A;- Destination element: &apos;SeleniumSeasons/src/mar15th&apos;&#x0D;&#x0A;- Original element: &apos;mar15th.WebTable1.java&apos;" description="Copy compilation unit" destination="/src&lt;mar15th" element1="/src&lt;mar15th{WebTable1.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1710746383877" units="1" version="1.0"/>
+</session>

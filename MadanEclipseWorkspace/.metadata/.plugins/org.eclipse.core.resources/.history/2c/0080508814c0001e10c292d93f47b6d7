@@ -1,0 +1,14 @@
+package jan30th;
+
+public class MethodsDemo1 {
+
+	public static void main(String[] args) {
+		
+		//Sum of N natural Numbers
+		int n=5;
+		int res=(n*(n+1)/2);
+		System.out.println("Sum of "+n+"natural numbers is"+res);
+
+	}
+
+}
